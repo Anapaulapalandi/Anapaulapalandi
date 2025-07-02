@@ -1,16 +1,13 @@
-# 👩🏻 Ana Paula Perez Palandi
+# ⭐ Oi, eu sou a Ana ⭐
 
-🎓 Estudante de Engenharia de Software | 🤝 Apaixonada por Educação e Inclusão | 👩‍🏫 Intérprete e Professora de Libras
+🎓 Estudante de Engenharia de Software | 🤝 Apaixonada por Educação e Inclusão | 🖥️ Aprendendo Python, SQL e desenvolvimento de APIs
 
 ---
 
-## ✨ Sobre mim
-
-Olá! Sou Ana Paula — esposa, mãe, professora e intérprete de Libras. Atualmente estou cursando Engenharia de Software, unindo minha paixão por educação e inclusão ao mundo da tecnologia.
-
-Acredito que a tecnologia pode (e deve) ser usada para criar soluções **acessíveis**, **eficientes** e **inclusivas**. Estou em busca de oportunidades de **estágio** que me permitam colocar em prática esses valores, contribuindo com projetos que tenham impacto real na vida das pessoas.
-
-Sou movida por **curiosidade**, **empatia**, e um desejo constante de **aprender e colaborar**.
+## 🧠 Tecnologias que uso:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -27,21 +24,15 @@ Sou movida por **curiosidade**, **empatia**, e um desejo constante de **aprender
 
 ## 🎓 Formação Acadêmica
 
-- **Engenharia de Software** – Cruzeiro do Sul Virtual *(2025 - 2029)*  
+- **Engenharia de Software** – Cruzeiro do Sul Virtual *(2025 - 2028)*  
 - **Pedagogia e Educação** – UMC *(2015 - 2018)*  
 - **Especialização em Libras** – FAVENI *(2022)*  
 
 ---
 
-## 🛠️ Principais Habilidades
-
-- Libras (fluente)  
-- Comunicação interpessoal  
-- Didática e ensino para diferentes idades  
-- Pesquisa e análise crítica  
-- Mídias sociais  
-- Início em lógica de programação, versionamento com Git e desenvolvimento web
-
+## 🌟 Projetos em destaque
+- **[API de Consultas Médicas](https://github.com/seuusuario/api-consultas)** – REST API com autenticação JWT, CRUD completo e deploy com Docker.
+- **[Calculadora] 
 ---
 
 ## 🌐 Contato
