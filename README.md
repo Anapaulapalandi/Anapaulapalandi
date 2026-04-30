@@ -1,6 +1,6 @@
 # ⭐ Oi, eu sou a Ana ⭐
 
-🎓 Estudante de Engenharia de Software | 🤝 Apaixonada por Educação e Inclusão | 🖥️ Aprendendo Python, SQL e desenvolvimento de APIs
+🎓 Estudante de Engenharia de Software | 🤝 Apaixonada por Educação e Inclusão | 🖥️ Aprendendo Python, SQL, desenvolvimento de APIs, C++, C, e Angular.
 
 ---
 
