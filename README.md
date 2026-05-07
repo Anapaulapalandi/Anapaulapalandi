@@ -8,6 +8,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?logo=cypress&logoColor=058a5e)
 
 ---
 
@@ -32,8 +35,7 @@
 ---
 
 ## 🌟 Projetos em destaque
-- **[API de Consultas Médicas](https://github.com/seuusuario/api-consultas)** – REST API com autenticação JWT, CRUD completo e deploy com Docker.
-- **[Calculadora] 
+- **[Calculadora] (
 ---
 
 ## 🌐 Contato
