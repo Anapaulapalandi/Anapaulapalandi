@@ -37,9 +37,10 @@
 ---
 
 ## 🌟 Projetos em destaque
-- **[Calculadora em C] (https://github.com/Anapaulapalandi/calculator-in-c)
-- **[Wabbit em C](https://github.com/Anapaulapalandi/wabbit-em-c)
-- **[Abs de bebida](https://github.com/Anapaulapalandi/rdi-abs)
+- **[Calculadora em C]** (https://github.com/Anapaulapalandi/calculator-in-c)
+- **[Wabbit em C]**(https://github.com/Anapaulapalandi/wabbit-em-c)
+- **[Abs de bebida]**(https://github.com/Anapaulapalandi/rdi-abs)
+- **[Calculadora em Python]**(https://github.com/Anapaulapalandi/primeiro_projeto)
 ---
 
 ## 🌐 Contato
