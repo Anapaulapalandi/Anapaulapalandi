@@ -1,6 +1,6 @@
 # ⭐ Oi, eu sou a Ana ⭐
 
-🎓 Estudante de Engenharia de Software | 🤝 Apaixonada por Educação e Inclusão | 🖥️ Aprendendo Python, SQL, desenvolvimento de APIs, C++, C, e Angular.
+🎓 Estudante de Engenharia de Software | 🤝 Apaixonada por Educação e Inclusão | 🖥️ Conhecimentos em Python, SQL, desenvolvimento de APIs, C++, C, Cypress, Regression, Sanity test, e Angular.
 
 ---
 
@@ -13,8 +13,9 @@
 
 ## 💼 Experiência Profissional
 
-- **Intérprete Ledora — AME** (2024 - atualmente)  
-- **Professora de Libras — Simplesmente Libras** (2020 - atualmente)  
+- **Intern Software Engineering- RDI**(jun2025-atualmente)
+- **Intérprete Ledora — AME** (2024 - 2025)  
+- **Professora de Libras — Simplesmente Libras** (2020 - 2025)  
 - **Intérprete de Libras — Fatec Jacareí** (2021 - 2025)  
 - **Intérprete de Libras — Google (lives e workshops)** (2021 - 2025)  
 - **Intérprete freelancer — diversos eventos**  
@@ -43,9 +44,9 @@
 
 ---
 
-## 🤝 Em busca de...
+## 🤝 Sobre mim
 
-Estou em busca de uma **oportunidade de estágio em Engenharia de Software** onde eu possa aprender, contribuir e crescer junto com uma equipe diversa e colaborativa. Se você tem um projeto onde inclusão e tecnologia caminham juntos, vamos conversar! 💬
+Atualmente **sou estagiária em uma empresa de tecnologia**, atuando em um programa de rotação, o que tem me permitido desenvolver uma visão ampla do processo de desenvolvimento de software e fortalecer minhas habilidades técnicas. Iniciei minha jornada na área de QA, onde permaneci por três meses aprendendo e aplicando conceitos de qualidade de software, com foco no uso do Cypress para testes automatizados, execução de testes de regressão e sanity tests, contribuindo para a estabilidade das aplicações. Em seguida, atuei por seis meses na área de Debug/Engenharia, desenvolvendo práticas de análise de logs, debug de código em C e C++, leitura, manutenção e desenvolvimento de código, além da investigação de falhas em aplicações. Nesse período, utilizei Git para controle de versão e diversas ferramentas de testes e diagnósticos, fortalecendo meu raciocínio analítico e minha capacidade de resolver problemas em ambientes colaborativos e diversos.
 
 ---
 
